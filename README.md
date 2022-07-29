@@ -37,7 +37,7 @@ Yo can find the code in the following link:![credit_risk_resampling.ipynb](credi
 
 ### Ensembly Models
 
-Two ensemble method were applied in order to classifay risk status, they are Balenced Random Forest Classifier and Easy Ensemble AdaBoost Classifier.
+Two ensemble method were applied in order to classifay risk status, they are Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier.
 
 Accuracy Score table:
 
@@ -57,3 +57,5 @@ Yo can find the code in the following link:![credit_risk_ensemble.ipynb](credit_
 
 
 ## Summary
+
+According to accuracy scores and confusion matrices, it looks that the ensemle classifier gave more acurate results. Amang ensemble classifiers, Easy Ensemble AdaBoost Classifier is better. As a sampling method, SMOTE Oversampling looks the best in terms of accuracy.
